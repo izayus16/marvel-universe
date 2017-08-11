@@ -247,8 +247,24 @@ fling-minislide {width:300px; height:300px; overflow:hidden; position:relative;}
      font-size:20px;
      color:brown;
  }
- JL{
+ #JL{
  background color:#840000;
  border:#840000;
  box-shadow: 1px 10px 10px;
  }
+ #JLL{
+ background color:#840000;
+ border:#840000;
+ box-shadow: 1px 10px 10px;
+ }
+ #L{
+ background color:#840000;
+ border:#840000;
+ box-shadow: 1px 10px 10px;
+ }
+.L{
+ background color:#840000;
+ border:#840000;
+ box-shadow: 1px 10px 10px;
+ }
+ 
